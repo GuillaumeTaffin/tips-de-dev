@@ -1,2 +1,2 @@
-# tips-de-dev
-Premier repo de Tips De Dev
+# Tips de Dev
+Premier repo de Tips de Dev
