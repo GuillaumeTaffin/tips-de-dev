@@ -17,4 +17,6 @@ pour la plupart des projets, même professionnels !
 Vous pouvez la trouver très simplement sur internet, ou simplement suivre ce lien :
 https://www.jetbrains.com/idea/download/
 
+![Download IntelliJ Community](download-intellij.png)
+
 
