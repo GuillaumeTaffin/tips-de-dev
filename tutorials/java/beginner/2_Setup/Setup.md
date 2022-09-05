@@ -19,4 +19,28 @@ https://www.jetbrains.com/idea/download/
 
 ![Download IntelliJ Community](download-intellij.png)
 
+Vous pouvez ensuite l'installer en suivant les indications.
+
+### Créer un nouveau projet
+
+- Lancer IntelliJ
+- Sélectionner New Project.
+- Choisir créer un Empty Project
+- Si vous n'avez pas de JDK, vous pouvez simplement en télécharger un depuis la liste déroulante
+- Appuyer sur create
+
+### Présentation rapide de l'interface
+
+- Vue des fichiers
+- Éditeur de code
+- Console
+- Bouton pour lancer son programme
+
+### Implementer votre "Hello, World"
+
+- Créer une nouvelle classe
+- Ajouter une méthode main pour exécuter le programme
+- Ajouter une instruction pour écrire un message dans la console
+- Lancer le programme
+
 
